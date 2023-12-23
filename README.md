@@ -24,7 +24,7 @@ Programmation Orienté Objet en langage Java.
 
 ### Execution du projet Java
 Eclipse IDE for Java Developers - 2022-09.
-Pour l'execution il faut allez dans le package play et executer la classe Main.
+Pour l'execution il faut allez dans le package play et exécuter la classe Main.
 
 ### Consultation du résultat produit par le logiciel
 
